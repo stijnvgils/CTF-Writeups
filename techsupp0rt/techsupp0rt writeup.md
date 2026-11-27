@@ -1,13 +1,12 @@
 Tryhackme - techsupp0rt1
 
 - Write-Up Author: stijn.vgils
-- Flag: 851b8233a8c09400ec30651bd1529bf1ed02790b
 
 ## Challenge Description:
 
 > Beginner-friendly TryHackMe room focused on web application enumeration and exploitation.
 
-<small>note for other beginners: it took me a while to get to the right steps in these challenges. This writeup is meant as a guide for when youre stuck, don't get demotivated just because trail and error wasn't documented; there was definitely a lot of trail and error.</small>
+<small>note for other beginners: it took me a while to get to the right steps in these challenges. This writeup is meant as a guide for when youre stuck, don't get demotivated just because trial and error wasn't documented; there was definitely a lot of trial and error.</small>
 
 ---
 
